@@ -38,12 +38,14 @@ export default createGlobalStyle`
   }
 
   :root {
+
     --background: linear-gradient(113.08deg, #5F3C9C 0%, #1F0A43 100%);
     --gradient: linear-gradient(180deg, rgba(95, 60, 156, 0.75) 0%, rgba(31, 10, 67, 0.75) 100%);
     --text: #F1F1F1;
     --purple: #8257E6;
     --title: #FFF;
     --border: #6542AB;
+    
   }
 
 `;

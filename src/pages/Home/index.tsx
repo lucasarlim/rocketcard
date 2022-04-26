@@ -43,8 +43,3 @@ const Home: React.FC = () => {
     </Container>
   );
 };
-
-export default Home;
-function userData() {
-  throw new Error("Function not implemented.");
-}

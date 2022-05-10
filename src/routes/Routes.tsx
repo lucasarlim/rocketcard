@@ -5,7 +5,7 @@ import {
   BrowserRouter,
   Routes as RoutesContainer,
 } from "react-router-dom";
-import Home from "../pages/Home";
+import { Home } from "../pages/Home";
 
 const Routes: React.FC = () => {
   return(

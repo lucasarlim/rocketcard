@@ -7,7 +7,7 @@ import api from "../../service/api";
 
 import { Container, CustomCardContent, InputWrapper } from "./styles";
 
-const Home: React.FC = () => {
+export const Home: React.FC = () => {
   const [userSearch, setUserSearch] = useState("");
   const context = useContext(UserContext);
 
